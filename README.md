@@ -3,7 +3,7 @@
 
 ## Running the server  
 
-using npm run .
+first install the node modules using npm i , then
 
 ```bash
 npm run dev
